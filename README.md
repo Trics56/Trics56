@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Trics56
-- 👀 I’m interested in foos
-- 🌱 I’m currently learning to code
+- 👋 Hi, I’m Patricia
+- 👀 I’m interested in food
+- 🌱 I’m currently learning to code (c/c++)
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me @Tricscode
+- 📫 How to reach me @parthogen on instagram
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
