@@ -2,7 +2,7 @@
 - 👀 I’m interested in food
 - 🌱 I’m currently learning to code (c/c++)
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me @parthogen on instagram
+- 📫 How to reach me @partthogen on instagram
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
